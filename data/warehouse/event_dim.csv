@@ -1,0 +1,745 @@
+Event_Key,Event,Sport,Event_Type
+1,Alpine Skiing Men'S Combined,Alpine Skiing,Individual
+2,Alpine Skiing Men'S Downhill,Alpine Skiing,Individual
+3,Alpine Skiing Men'S Giant Slalom,Alpine Skiing,Individual
+4,Alpine Skiing Men'S Slalom,Alpine Skiing,Individual
+5,Alpine Skiing Men'S Super G,Alpine Skiing,Individual
+6,Alpine Skiing Women'S Combined,Alpine Skiing,Individual
+7,Alpine Skiing Women'S Downhill,Alpine Skiing,Individual
+8,Alpine Skiing Women'S Giant Slalom,Alpine Skiing,Individual
+9,Alpine Skiing Women'S Slalom,Alpine Skiing,Individual
+10,Alpine Skiing Women'S Super G,Alpine Skiing,Individual
+11,Alpinism Mixed Alpinism,Alpinism,Individual
+12,"Archery Men'S Au Cordon Dore, 50 Metres",Archery,Individual
+13,Archery Men'S Continental Style,Archery,Individual
+14,Archery Men'S Double American Round,Archery,Individual
+15,Archery Men'S Double York Round,Archery,Individual
+16,Archery Men'S Individual,Archery,Individual
+17,"Archery Men'S Pole Archery, Large Birds, Individual",Archery,Individual
+18,"Archery Men'S Pole Archery, Large Birds, Team",Archery,Individual
+19,"Archery Men'S Pole Archery, Small Birds, Individual",Archery,Individual
+20,"Archery Men'S Pole Archery, Small Birds, Team",Archery,Individual
+21,Archery Men'S Sur La Perche A La Herse,Archery,Individual
+22,"Archery Men'S Target Archery, 28 Metres, Team",Archery,Individual
+23,"Archery Men'S Target Archery, 33 Metres, Individual",Archery,Individual
+24,"Archery Men'S Target Archery, 33 Metres, Team",Archery,Individual
+25,"Archery Men'S Target Archery, 50 Metres, Individual",Archery,Individual
+26,"Archery Men'S Target Archery, 50 Metres, Team",Archery,Individual
+27,Archery Men'S Team,Archery,Individual
+28,Archery Men'S Team Round,Archery,Individual
+29,Archery Women'S Double Columbia Round,Archery,Individual
+30,Archery Women'S Double National Round,Archery,Individual
+31,Archery Women'S Individual,Archery,Individual
+32,Archery Women'S Team,Archery,Individual
+33,Art Competitions Mixed Architecture,Art Competitions,Individual
+34,"Art Competitions Mixed Architecture, Architectural Designs",Art Competitions,Individual
+35,"Art Competitions Mixed Architecture, Designs For Town Planning",Art Competitions,Individual
+36,"Art Competitions Mixed Architecture, Unknown Event",Art Competitions,Individual
+37,Art Competitions Mixed Literature,Art Competitions,Individual
+38,"Art Competitions Mixed Literature, Dramatic Works",Art Competitions,Individual
+39,"Art Competitions Mixed Literature, Epic Works",Art Competitions,Individual
+40,"Art Competitions Mixed Literature, Lyric Works",Art Competitions,Individual
+41,"Art Competitions Mixed Literature, Unknown Event",Art Competitions,Individual
+42,Art Competitions Mixed Music,Art Competitions,Individual
+43,"Art Competitions Mixed Music, Compositions For Orchestra",Art Competitions,Individual
+44,"Art Competitions Mixed Music, Compositions For Solo Or Chorus",Art Competitions,Individual
+45,"Art Competitions Mixed Music, Instrumental And Chamber",Art Competitions,Individual
+46,"Art Competitions Mixed Music, Unknown Event",Art Competitions,Individual
+47,"Art Competitions Mixed Music, Vocals",Art Competitions,Individual
+48,Art Competitions Mixed Painting,Art Competitions,Individual
+49,"Art Competitions Mixed Painting, Applied Arts",Art Competitions,Individual
+50,"Art Competitions Mixed Painting, Drawings And Water Colors",Art Competitions,Individual
+51,"Art Competitions Mixed Painting, Graphic Arts",Art Competitions,Individual
+52,"Art Competitions Mixed Painting, Paintings",Art Competitions,Individual
+53,"Art Competitions Mixed Painting, Unknown Event",Art Competitions,Individual
+54,Art Competitions Mixed Sculpturing,Art Competitions,Individual
+55,"Art Competitions Mixed Sculpturing, Medals",Art Competitions,Individual
+56,"Art Competitions Mixed Sculpturing, Medals And Plaques",Art Competitions,Individual
+57,"Art Competitions Mixed Sculpturing, Medals And Reliefs",Art Competitions,Individual
+58,"Art Competitions Mixed Sculpturing, Statues",Art Competitions,Individual
+59,"Art Competitions Mixed Sculpturing, Unknown Event",Art Competitions,Individual
+60,Art Competitions Mixed Unknown Event,Art Competitions,Individual
+61,"Athletics Men'S 1,500 Metres",Athletics,Individual
+62,"Athletics Men'S 1,500 Metres Walk",Athletics,Individual
+63,"Athletics Men'S 1,600 Metres Medley Relay",Athletics,Individual
+64,Athletics Men'S 10 Kilometres Walk,Athletics,Individual
+65,Athletics Men'S 10 Mile Walk,Athletics,Individual
+66,"Athletics Men'S 10,000 Metres",Athletics,Individual
+67,Athletics Men'S 100 Metres,Athletics,Individual
+68,Athletics Men'S 110 Metres Hurdles,Athletics,Individual
+69,"Athletics Men'S 2,500 Metres Steeplechase",Athletics,Individual
+70,"Athletics Men'S 2,590 Metres Steeplechase",Athletics,Individual
+71,Athletics Men'S 20 Kilometres Walk,Athletics,Individual
+72,Athletics Men'S 200 Metres,Athletics,Individual
+73,Athletics Men'S 200 Metres Hurdles,Athletics,Individual
+74,"Athletics Men'S 3 Mile, Team",Athletics,Individual
+75,"Athletics Men'S 3,000 Metres Steeplechase",Athletics,Individual
+76,"Athletics Men'S 3,000 Metres Walk",Athletics,Individual
+77,"Athletics Men'S 3,000 Metres, Team",Athletics,Individual
+78,"Athletics Men'S 3,200 Metres Steeplechase",Athletics,Individual
+79,"Athletics Men'S 3,500 Metres Walk",Athletics,Individual
+80,"Athletics Men'S 4 Mile, Team",Athletics,Individual
+81,Athletics Men'S 4 X 100 Metres Relay,Athletics,Individual
+82,Athletics Men'S 4 X 400 Metres Relay,Athletics,Individual
+83,"Athletics Men'S 4,000 Metres Steeplechase",Athletics,Individual
+84,Athletics Men'S 400 Metres,Athletics,Individual
+85,Athletics Men'S 400 Metres Hurdles,Athletics,Individual
+86,Athletics Men'S 5 Mile,Athletics,Individual
+87,"Athletics Men'S 5,000 Metres",Athletics,Individual
+88,"Athletics Men'S 5,000 Metres, Team",Athletics,Individual
+89,Athletics Men'S 50 Kilometres Walk,Athletics,Individual
+90,Athletics Men'S 56-Pound Weight Throw,Athletics,Individual
+91,Athletics Men'S 60 Metres,Athletics,Individual
+92,Athletics Men'S 800 Metres,Athletics,Individual
+93,Athletics Men'S All-Around Championship,Athletics,Individual
+94,"Athletics Men'S Cross-Country, Individual",Athletics,Individual
+95,"Athletics Men'S Cross-Country, Team",Athletics,Individual
+96,Athletics Men'S Decathlon,Athletics,Individual
+97,Athletics Men'S Discus Throw,Athletics,Individual
+98,"Athletics Men'S Discus Throw, Both Hands",Athletics,Individual
+99,"Athletics Men'S Discus Throw, Greek Style",Athletics,Individual
+100,Athletics Men'S Hammer Throw,Athletics,Individual
+101,Athletics Men'S High Jump,Athletics,Individual
+102,Athletics Men'S Javelin Throw,Athletics,Individual
+103,"Athletics Men'S Javelin Throw, Both Hands",Athletics,Individual
+104,"Athletics Men'S Javelin Throw, Freestyle",Athletics,Individual
+105,Athletics Men'S Long Jump,Athletics,Individual
+106,Athletics Men'S Marathon,Athletics,Individual
+107,Athletics Men'S Pentathlon,Athletics,Individual
+108,Athletics Men'S Pentathlon (Ancient),Athletics,Individual
+109,Athletics Men'S Pole Vault,Athletics,Individual
+110,Athletics Men'S Shot Put,Athletics,Individual
+111,"Athletics Men'S Shot Put, Both Hands",Athletics,Individual
+112,Athletics Men'S Standing High Jump,Athletics,Individual
+113,Athletics Men'S Standing Long Jump,Athletics,Individual
+114,Athletics Men'S Standing Triple Jump,Athletics,Individual
+115,Athletics Men'S Stone Throw,Athletics,Individual
+116,Athletics Men'S Triple Jump,Athletics,Individual
+117,"Athletics Women'S 1,500 Metres",Athletics,Individual
+118,Athletics Women'S 10 Kilometres Walk,Athletics,Individual
+119,"Athletics Women'S 10,000 Metres",Athletics,Individual
+120,Athletics Women'S 100 Metres,Athletics,Individual
+121,Athletics Women'S 100 Metres Hurdles,Athletics,Individual
+122,Athletics Women'S 20 Kilometres Walk,Athletics,Individual
+123,Athletics Women'S 200 Metres,Athletics,Individual
+124,"Athletics Women'S 3,000 Metres",Athletics,Individual
+125,"Athletics Women'S 3,000 Metres Steeplechase",Athletics,Individual
+126,Athletics Women'S 4 X 100 Metres Relay,Athletics,Individual
+127,Athletics Women'S 4 X 400 Metres Relay,Athletics,Individual
+128,Athletics Women'S 400 Metres,Athletics,Individual
+129,Athletics Women'S 400 Metres Hurdles,Athletics,Individual
+130,"Athletics Women'S 5,000 Metres",Athletics,Individual
+131,Athletics Women'S 80 Metres Hurdles,Athletics,Individual
+132,Athletics Women'S 800 Metres,Athletics,Individual
+133,Athletics Women'S Discus Throw,Athletics,Individual
+134,Athletics Women'S Hammer Throw,Athletics,Individual
+135,Athletics Women'S Heptathlon,Athletics,Individual
+136,Athletics Women'S High Jump,Athletics,Individual
+137,Athletics Women'S Javelin Throw,Athletics,Individual
+138,Athletics Women'S Long Jump,Athletics,Individual
+139,Athletics Women'S Marathon,Athletics,Individual
+140,Athletics Women'S Pentathlon,Athletics,Individual
+141,Athletics Women'S Pole Vault,Athletics,Individual
+142,Athletics Women'S Shot Put,Athletics,Individual
+143,Athletics Women'S Triple Jump,Athletics,Individual
+144,Badminton Men'S Doubles,Badminton,Individual
+145,Badminton Men'S Singles,Badminton,Individual
+146,Badminton Mixed Doubles,Badminton,Individual
+147,Badminton Women'S Doubles,Badminton,Individual
+148,Badminton Women'S Singles,Badminton,Individual
+149,Baseball Men'S Baseball,Baseball,Team
+150,Basketball Men'S Basketball,Basketball,Team
+151,Basketball Women'S Basketball,Basketball,Team
+152,Basque Pelota Men'S Two-Man Teams With Cesta,Basque Pelota,Individual
+153,Beach Volleyball Men'S Beach Volleyball,Beach Volleyball,Team
+154,Beach Volleyball Women'S Beach Volleyball,Beach Volleyball,Team
+155,Biathlon Men'S 10 Kilometres Sprint,Biathlon,Individual
+156,Biathlon Men'S 12.5 Kilometres Pursuit,Biathlon,Individual
+157,Biathlon Men'S 15 Kilometres Mass Start,Biathlon,Individual
+158,Biathlon Men'S 20 Kilometres,Biathlon,Individual
+159,Biathlon Men'S 4 X 7.5 Kilometres Relay,Biathlon,Individual
+160,Biathlon Mixed 2 X 6 Kilometres And 2 X 7.5 Kilometres Relay,Biathlon,Individual
+161,Biathlon Women'S 10 Kilometres Pursuit,Biathlon,Individual
+162,Biathlon Women'S 12.5 Kilometres Mass Start,Biathlon,Individual
+163,Biathlon Women'S 15 Kilometres,Biathlon,Individual
+164,Biathlon Women'S 3 X 7.5 Kilometres Relay,Biathlon,Individual
+165,Biathlon Women'S 4 X 6 Kilometres Relay,Biathlon,Individual
+166,Biathlon Women'S 4 X 7.5 Kilometres Relay,Biathlon,Individual
+167,Biathlon Women'S 7.5 Kilometres Sprint,Biathlon,Individual
+168,Bobsleigh Men'S Four,Bobsleigh,Individual
+169,Bobsleigh Men'S Four/Five,Bobsleigh,Individual
+170,Bobsleigh Men'S Two,Bobsleigh,Individual
+171,Bobsleigh Women'S Two,Bobsleigh,Individual
+172,Boxing Men'S Bantamweight,Boxing,Individual
+173,Boxing Men'S Featherweight,Boxing,Individual
+174,Boxing Men'S Flyweight,Boxing,Individual
+175,Boxing Men'S Heavyweight,Boxing,Individual
+176,Boxing Men'S Light-Flyweight,Boxing,Individual
+177,Boxing Men'S Light-Heavyweight,Boxing,Individual
+178,Boxing Men'S Light-Middleweight,Boxing,Individual
+179,Boxing Men'S Light-Welterweight,Boxing,Individual
+180,Boxing Men'S Lightweight,Boxing,Individual
+181,Boxing Men'S Middleweight,Boxing,Individual
+182,Boxing Men'S Super-Heavyweight,Boxing,Individual
+183,Boxing Men'S Welterweight,Boxing,Individual
+184,Boxing Women'S Flyweight,Boxing,Individual
+185,Boxing Women'S Lightweight,Boxing,Individual
+186,Boxing Women'S Middleweight,Boxing,Individual
+187,"Canoeing Men'S Canadian Doubles, 1,000 Metres",Canoeing,Individual
+188,"Canoeing Men'S Canadian Doubles, 10,000 Metres",Canoeing,Individual
+189,"Canoeing Men'S Canadian Doubles, 500 Metres",Canoeing,Individual
+190,"Canoeing Men'S Canadian Doubles, Slalom",Canoeing,Individual
+191,"Canoeing Men'S Canadian Singles, 1,000 Metres",Canoeing,Individual
+192,"Canoeing Men'S Canadian Singles, 10,000 Metres",Canoeing,Individual
+193,"Canoeing Men'S Canadian Singles, 200 Metres",Canoeing,Individual
+194,"Canoeing Men'S Canadian Singles, 500 Metres",Canoeing,Individual
+195,"Canoeing Men'S Canadian Singles, Slalom",Canoeing,Individual
+196,"Canoeing Men'S Folding Kayak Doubles, 10 Kilometres",Canoeing,Individual
+197,"Canoeing Men'S Folding Kayak Singles, 10 Kilometres",Canoeing,Individual
+198,"Canoeing Men'S Kayak Doubles, 1,000 Metres",Canoeing,Individual
+199,"Canoeing Men'S Kayak Doubles, 10,000 Metres",Canoeing,Individual
+200,"Canoeing Men'S Kayak Doubles, 200 Metres",Canoeing,Individual
+201,"Canoeing Men'S Kayak Doubles, 500 Metres",Canoeing,Individual
+202,"Canoeing Men'S Kayak Fours, 1,000 Metres",Canoeing,Individual
+203,Canoeing Men'S Kayak Relay 4 X 500 Metres,Canoeing,Individual
+204,"Canoeing Men'S Kayak Singles, 1,000 Metres",Canoeing,Individual
+205,"Canoeing Men'S Kayak Singles, 10,000 Metres",Canoeing,Individual
+206,"Canoeing Men'S Kayak Singles, 200 Metres",Canoeing,Individual
+207,"Canoeing Men'S Kayak Singles, 500 Metres",Canoeing,Individual
+208,"Canoeing Men'S Kayak Singles, Slalom",Canoeing,Individual
+209,"Canoeing Women'S Kayak Doubles, 500 Metres",Canoeing,Individual
+210,"Canoeing Women'S Kayak Fours, 500 Metres",Canoeing,Individual
+211,"Canoeing Women'S Kayak Singles, 200 Metres",Canoeing,Individual
+212,"Canoeing Women'S Kayak Singles, 500 Metres",Canoeing,Individual
+213,"Canoeing Women'S Kayak Singles, Slalom",Canoeing,Individual
+214,Cricket Men'S Cricket,Cricket,Team
+215,Croquet Mixed Doubles,Croquet,Individual
+216,"Croquet Mixed Singles, One Ball",Croquet,Individual
+217,"Croquet Mixed Singles, Two Balls",Croquet,Individual
+218,Cross Country Skiing Men'S 10 Kilometres,Cross Country Skiing,Individual
+219,Cross Country Skiing Men'S 10/10 Kilometres Pursuit,Cross Country Skiing,Individual
+220,Cross Country Skiing Men'S 10/15 Kilometres Pursuit,Cross Country Skiing,Individual
+221,Cross Country Skiing Men'S 15 Kilometres,Cross Country Skiing,Individual
+222,Cross Country Skiing Men'S 18 Kilometres,Cross Country Skiing,Individual
+223,Cross Country Skiing Men'S 30 Kilometres,Cross Country Skiing,Individual
+224,Cross Country Skiing Men'S 30 Km Skiathlon,Cross Country Skiing,Individual
+225,Cross Country Skiing Men'S 4 X 10 Kilometres Relay,Cross Country Skiing,Individual
+226,Cross Country Skiing Men'S 50 Kilometres,Cross Country Skiing,Individual
+227,Cross Country Skiing Men'S Sprint,Cross Country Skiing,Individual
+228,Cross Country Skiing Men'S Team Sprint,Cross Country Skiing,Individual
+229,Cross Country Skiing Women'S 10 Kilometres,Cross Country Skiing,Individual
+230,Cross Country Skiing Women'S 15 Kilometres,Cross Country Skiing,Individual
+231,Cross Country Skiing Women'S 15 Km Skiathlon,Cross Country Skiing,Individual
+232,Cross Country Skiing Women'S 20 Kilometres,Cross Country Skiing,Individual
+233,Cross Country Skiing Women'S 3 X 5 Kilometres Relay,Cross Country Skiing,Individual
+234,Cross Country Skiing Women'S 30 Kilometres,Cross Country Skiing,Individual
+235,Cross Country Skiing Women'S 4 X 5 Kilometres Relay,Cross Country Skiing,Individual
+236,Cross Country Skiing Women'S 5 Kilometres,Cross Country Skiing,Individual
+237,Cross Country Skiing Women'S 5/10 Kilometres Pursuit,Cross Country Skiing,Individual
+238,Cross Country Skiing Women'S 5/5 Kilometres Pursuit,Cross Country Skiing,Individual
+239,Cross Country Skiing Women'S Sprint,Cross Country Skiing,Individual
+240,Cross Country Skiing Women'S Team Sprint,Cross Country Skiing,Individual
+241,Curling Men'S Curling,Curling,Individual
+242,Curling Women'S Curling,Curling,Individual
+243,Cycling Men'S 1 Mile,Cycling,Individual
+244,"Cycling Men'S 1,000 Metres Time Trial",Cycling,Individual
+245,Cycling Men'S 1/2 Mile,Cycling,Individual
+246,Cycling Men'S 1/3 Mile,Cycling,Individual
+247,Cycling Men'S 1/4 Mile,Cycling,Individual
+248,Cycling Men'S 100 Kilometres,Cycling,Individual
+249,Cycling Men'S 100 Kilometres Team Time Trial,Cycling,Individual
+250,Cycling Men'S 2 Mile,Cycling,Individual
+251,Cycling Men'S 20 Kilometres,Cycling,Individual
+252,Cycling Men'S 25 Kilometres,Cycling,Individual
+253,Cycling Men'S 25 Mile,Cycling,Individual
+254,Cycling Men'S 333 Metres Time Trial,Cycling,Individual
+255,Cycling Men'S 5 Mile,Cycling,Individual
+256,"Cycling Men'S 5,000 Metres",Cycling,Individual
+257,Cycling Men'S 50 Kilometres,Cycling,Individual
+258,Cycling Men'S Bmx,Cycling,Individual
+259,"Cycling Men'S Individual Pursuit, 4,000 Metres",Cycling,Individual
+260,Cycling Men'S Individual Time Trial,Cycling,Individual
+261,Cycling Men'S Keirin,Cycling,Individual
+262,Cycling Men'S Madison,Cycling,Individual
+263,"Cycling Men'S Mountainbike, Cross-Country",Cycling,Individual
+264,Cycling Men'S Omnium,Cycling,Individual
+265,Cycling Men'S Points Race,Cycling,Individual
+266,"Cycling Men'S Road Race, Individual",Cycling,Individual
+267,"Cycling Men'S Road Race, Team",Cycling,Individual
+268,Cycling Men'S Sprint,Cycling,Individual
+269,"Cycling Men'S Tandem Sprint, 2,000 Metres",Cycling,Individual
+270,"Cycling Men'S Team Pursuit, 1,980 Yards",Cycling,Individual
+271,"Cycling Men'S Team Pursuit, 4,000 Metres",Cycling,Individual
+272,Cycling Men'S Team Sprint,Cycling,Individual
+273,Cycling Women'S 500 Metres Time Trial,Cycling,Individual
+274,Cycling Women'S Bmx,Cycling,Individual
+275,"Cycling Women'S Individual Pursuit, 3,000 Metres",Cycling,Individual
+276,Cycling Women'S Individual Time Trial,Cycling,Individual
+277,Cycling Women'S Keirin,Cycling,Individual
+278,"Cycling Women'S Mountainbike, Cross-Country",Cycling,Individual
+279,Cycling Women'S Omnium,Cycling,Individual
+280,Cycling Women'S Points Race,Cycling,Individual
+281,"Cycling Women'S Road Race, Individual",Cycling,Individual
+282,Cycling Women'S Sprint,Cycling,Individual
+283,Cycling Women'S Team Pursuit,Cycling,Individual
+284,Cycling Women'S Team Sprint,Cycling,Individual
+285,Diving Men'S Plain High,Diving,Individual
+286,Diving Men'S Platform,Diving,Individual
+287,Diving Men'S Springboard,Diving,Individual
+288,Diving Men'S Synchronized Platform,Diving,Individual
+289,Diving Men'S Synchronized Springboard,Diving,Individual
+290,Diving Women'S Plain High,Diving,Individual
+291,Diving Women'S Platform,Diving,Individual
+292,Diving Women'S Springboard,Diving,Individual
+293,Diving Women'S Synchronized Platform,Diving,Individual
+294,Diving Women'S Synchronized Springboard,Diving,Individual
+295,"Equestrianism Men'S Dressage, Individual",Equestrianism,Individual
+296,"Equestrianism Men'S Dressage, Team",Equestrianism,Individual
+297,"Equestrianism Men'S Jumping, Individual",Equestrianism,Individual
+298,"Equestrianism Men'S Jumping, Team",Equestrianism,Individual
+299,"Equestrianism Men'S Three-Day Event, Individual",Equestrianism,Individual
+300,"Equestrianism Men'S Three-Day Event, Team",Equestrianism,Individual
+301,"Equestrianism Men'S Vaulting, Individual",Equestrianism,Individual
+302,"Equestrianism Men'S Vaulting, Team",Equestrianism,Individual
+303,"Equestrianism Mixed Dressage, Individual",Equestrianism,Individual
+304,"Equestrianism Mixed Dressage, Team",Equestrianism,Individual
+305,Equestrianism Mixed Four-In-Hand Competition,Equestrianism,Individual
+306,Equestrianism Mixed Hacks And Hunter Combined,Equestrianism,Individual
+307,"Equestrianism Mixed Jumping, Individual",Equestrianism,Individual
+308,"Equestrianism Mixed Jumping, Team",Equestrianism,Individual
+309,Equestrianism Mixed Long Jump,Equestrianism,Individual
+310,"Equestrianism Mixed Three-Day Event, Individual",Equestrianism,Individual
+311,"Equestrianism Mixed Three-Day Event, Team",Equestrianism,Individual
+312,"Fencing Men'S Epee, Individual",Fencing,Individual
+313,"Fencing Men'S Epee, Masters And Amateurs, Individual",Fencing,Individual
+314,"Fencing Men'S Epee, Masters, Individual",Fencing,Individual
+315,"Fencing Men'S Epee, Team",Fencing,Individual
+316,"Fencing Men'S Foil, Individual",Fencing,Individual
+317,"Fencing Men'S Foil, Masters, Individual",Fencing,Individual
+318,"Fencing Men'S Foil, Team",Fencing,Individual
+319,"Fencing Men'S Sabre, Individual",Fencing,Individual
+320,"Fencing Men'S Sabre, Individual, Three Hits",Fencing,Individual
+321,"Fencing Men'S Sabre, Masters, Individual",Fencing,Individual
+322,"Fencing Men'S Sabre, Team",Fencing,Individual
+323,"Fencing Women'S Epee, Individual",Fencing,Individual
+324,"Fencing Women'S Epee, Team",Fencing,Individual
+325,"Fencing Women'S Foil, Individual",Fencing,Individual
+326,"Fencing Women'S Foil, Team",Fencing,Individual
+327,"Fencing Women'S Sabre, Individual",Fencing,Individual
+328,"Fencing Women'S Sabre, Team",Fencing,Individual
+329,Figure Skating Men'S Singles,Figure Skating,Individual
+330,Figure Skating Men'S Special Figures,Figure Skating,Individual
+331,Figure Skating Mixed Ice Dancing,Figure Skating,Individual
+332,Figure Skating Mixed Pairs,Figure Skating,Individual
+333,Figure Skating Mixed Team,Figure Skating,Individual
+334,Figure Skating Women'S Singles,Figure Skating,Individual
+335,Football Men'S Football,Football,Team
+336,Football Women'S Football,Football,Team
+337,Freestyle Skiing Men'S Aerials,Freestyle Skiing,Individual
+338,Freestyle Skiing Men'S Halfpipe,Freestyle Skiing,Individual
+339,Freestyle Skiing Men'S Moguls,Freestyle Skiing,Individual
+340,Freestyle Skiing Men'S Ski Cross,Freestyle Skiing,Individual
+341,Freestyle Skiing Men'S Slopestyle,Freestyle Skiing,Individual
+342,Freestyle Skiing Women'S Aerials,Freestyle Skiing,Individual
+343,Freestyle Skiing Women'S Halfpipe,Freestyle Skiing,Individual
+344,Freestyle Skiing Women'S Moguls,Freestyle Skiing,Individual
+345,Freestyle Skiing Women'S Ski Cross,Freestyle Skiing,Individual
+346,Freestyle Skiing Women'S Slopestyle,Freestyle Skiing,Individual
+347,Golf Men'S Individual,Golf,Individual
+348,Golf Men'S Team,Golf,Individual
+349,Golf Women'S Individual,Golf,Individual
+350,Gymnastics Men'S Club Swinging,Gymnastics,Individual
+351,Gymnastics Men'S Floor Exercise,Gymnastics,Individual
+352,Gymnastics Men'S Horizontal Bar,Gymnastics,Individual
+353,"Gymnastics Men'S Horizontal Bar, Teams",Gymnastics,Individual
+354,Gymnastics Men'S Horse Vault,Gymnastics,Individual
+355,Gymnastics Men'S Individual All-Around,Gymnastics,Individual
+356,"Gymnastics Men'S Individual All-Around, 4 Events",Gymnastics,Individual
+357,"Gymnastics Men'S Individual All-Around, 5 Events",Gymnastics,Individual
+358,"Gymnastics Men'S Individual All-Around, Apparatus Work",Gymnastics,Individual
+359,"Gymnastics Men'S Individual All-Around, Field Sports",Gymnastics,Individual
+360,Gymnastics Men'S Parallel Bars,Gymnastics,Individual
+361,"Gymnastics Men'S Parallel Bars, Teams",Gymnastics,Individual
+362,Gymnastics Men'S Pommelled Horse,Gymnastics,Individual
+363,Gymnastics Men'S Rings,Gymnastics,Individual
+364,Gymnastics Men'S Rope Climbing,Gymnastics,Individual
+365,Gymnastics Men'S Side Horse,Gymnastics,Individual
+366,Gymnastics Men'S Team All-Around,Gymnastics,Individual
+367,"Gymnastics Men'S Team All-Around, Free System",Gymnastics,Individual
+368,"Gymnastics Men'S Team All-Around, Swedish System",Gymnastics,Individual
+369,Gymnastics Women'S Balance Beam,Gymnastics,Individual
+370,Gymnastics Women'S Floor Exercise,Gymnastics,Individual
+371,Gymnastics Women'S Horse Vault,Gymnastics,Individual
+372,Gymnastics Women'S Individual All-Around,Gymnastics,Individual
+373,Gymnastics Women'S Team All-Around,Gymnastics,Individual
+374,Gymnastics Women'S Team Portable Apparatus,Gymnastics,Individual
+375,Gymnastics Women'S Uneven Bars,Gymnastics,Individual
+376,Handball Men'S Handball,Handball,Team
+377,Handball Women'S Handball,Handball,Team
+378,Hockey Men'S Hockey,Hockey,Team
+379,Hockey Women'S Hockey,Hockey,Team
+380,Ice Hockey Men'S Ice Hockey,Ice Hockey,Individual
+381,Ice Hockey Women'S Ice Hockey,Ice Hockey,Individual
+382,Jeu De Paume Men'S Singles,Jeu De Paume,Individual
+383,Judo Men'S Extra-Lightweight,Judo,Individual
+384,Judo Men'S Half-Heavyweight,Judo,Individual
+385,Judo Men'S Half-Lightweight,Judo,Individual
+386,Judo Men'S Half-Middleweight,Judo,Individual
+387,Judo Men'S Heavyweight,Judo,Individual
+388,Judo Men'S Lightweight,Judo,Individual
+389,Judo Men'S Middleweight,Judo,Individual
+390,Judo Men'S Open Class,Judo,Individual
+391,Judo Women'S Extra-Lightweight,Judo,Individual
+392,Judo Women'S Half-Heavyweight,Judo,Individual
+393,Judo Women'S Half-Lightweight,Judo,Individual
+394,Judo Women'S Half-Middleweight,Judo,Individual
+395,Judo Women'S Heavyweight,Judo,Individual
+396,Judo Women'S Lightweight,Judo,Individual
+397,Judo Women'S Middleweight,Judo,Individual
+398,Lacrosse Men'S Lacrosse,Lacrosse,Team
+399,Luge Men'S Singles,Luge,Individual
+400,Luge Mixed (Men)'S Doubles,Luge,Individual
+401,Luge Mixed Team Relay,Luge,Individual
+402,Luge Women'S Singles,Luge,Individual
+403,Military Ski Patrol Men'S Military Ski Patrol,Military Ski Patrol,Individual
+404,Modern Pentathlon Men'S Individual,Modern Pentathlon,Individual
+405,Modern Pentathlon Men'S Team,Modern Pentathlon,Individual
+406,Modern Pentathlon Women'S Individual,Modern Pentathlon,Individual
+407,Motorboating Mixed A-Class (Open),Motorboating,Individual
+408,Motorboating Mixed B-Class (Under 60 Feet),Motorboating,Individual
+409,Motorboating Mixed C-Class,Motorboating,Individual
+410,Nordic Combined Men'S Individual,Nordic Combined,Individual
+411,"Nordic Combined Men'S Large Hill / 10 Km, Individual",Nordic Combined,Individual
+412,"Nordic Combined Men'S Normal Hill / 10 Km, Individual",Nordic Combined,Individual
+413,Nordic Combined Men'S Sprint,Nordic Combined,Individual
+414,Nordic Combined Men'S Team,Nordic Combined,Individual
+415,Polo Men'S Polo,Polo,Team
+416,Racquets Men'S Doubles,Racquets,Individual
+417,Racquets Men'S Singles,Racquets,Individual
+418,Rhythmic Gymnastics Women'S Group,Rhythmic Gymnastics,Individual
+419,Rhythmic Gymnastics Women'S Individual,Rhythmic Gymnastics,Individual
+420,Roque Men'S Singles,Roque,Individual
+421,Rowing Men'S 17-Man Naval Rowing Boats,Rowing,Team
+422,Rowing Men'S 6-Man Naval Rowing Boats,Rowing,Team
+423,Rowing Men'S Coxed Eights,Rowing,Team
+424,Rowing Men'S Coxed Fours,Rowing,Team
+425,"Rowing Men'S Coxed Fours, Inriggers",Rowing,Team
+426,"Rowing Men'S Coxed Fours, Outriggers",Rowing,Team
+427,Rowing Men'S Coxed Pairs,Rowing,Team
+428,Rowing Men'S Coxed Pairs (1 Kilometres),Rowing,Team
+429,Rowing Men'S Coxed Pairs (1 Mile),Rowing,Team
+430,Rowing Men'S Coxless Fours,Rowing,Team
+431,Rowing Men'S Coxless Pairs,Rowing,Team
+432,Rowing Men'S Double Sculls,Rowing,Team
+433,Rowing Men'S Lightweight Coxless Fours,Rowing,Team
+434,Rowing Men'S Lightweight Double Sculls,Rowing,Team
+435,Rowing Men'S Quadruple Sculls,Rowing,Team
+436,Rowing Men'S Single Sculls,Rowing,Team
+437,Rowing Women'S Coxed Eights,Rowing,Team
+438,Rowing Women'S Coxed Fours,Rowing,Team
+439,Rowing Women'S Coxed Quadruple Sculls,Rowing,Team
+440,Rowing Women'S Coxless Fours,Rowing,Team
+441,Rowing Women'S Coxless Pairs,Rowing,Team
+442,Rowing Women'S Double Sculls,Rowing,Team
+443,Rowing Women'S Lightweight Double Sculls,Rowing,Team
+444,Rowing Women'S Quadruple Sculls,Rowing,Team
+445,Rowing Women'S Single Sculls,Rowing,Team
+446,Rugby Men'S Rugby,Rugby,Team
+447,Rugby Sevens Men'S Rugby Sevens,Rugby Sevens,Team
+448,Rugby Sevens Women'S Rugby Sevens,Rugby Sevens,Team
+449,Sailing Men'S One Person Dinghy,Sailing,Individual
+450,Sailing Men'S One Person Heavyweight Dinghy,Sailing,Individual
+451,Sailing Men'S Skiff,Sailing,Individual
+452,Sailing Men'S Two Person Dinghy,Sailing,Individual
+453,Sailing Men'S Two Person Keelboat,Sailing,Individual
+454,Sailing Men'S Windsurfer,Sailing,Individual
+455,Sailing Mixed 0-0.5 Ton,Sailing,Individual
+456,Sailing Mixed 0.5-1 Ton,Sailing,Individual
+457,Sailing Mixed 1-2 Ton,Sailing,Individual
+458,Sailing Mixed 10 Metres,Sailing,Individual
+459,Sailing Mixed 10-20 Ton,Sailing,Individual
+460,Sailing Mixed 12 Foot,Sailing,Individual
+461,Sailing Mixed 12 Metres,Sailing,Individual
+462,Sailing Mixed 2-3 Ton,Sailing,Individual
+463,Sailing Mixed 20+ Ton,Sailing,Individual
+464,Sailing Mixed 3-10 Ton,Sailing,Individual
+465,Sailing Mixed 30 Metres,Sailing,Individual
+466,Sailing Mixed 40 Metres,Sailing,Individual
+467,Sailing Mixed 5.5 Metres,Sailing,Individual
+468,Sailing Mixed 6 Metres,Sailing,Individual
+469,Sailing Mixed 6.5 Metres,Sailing,Individual
+470,Sailing Mixed 7 Metres,Sailing,Individual
+471,Sailing Mixed 8 Metres,Sailing,Individual
+472,Sailing Mixed Multihull,Sailing,Individual
+473,Sailing Mixed One Person Dinghy,Sailing,Individual
+474,Sailing Mixed Open,Sailing,Individual
+475,Sailing Mixed Skiff,Sailing,Individual
+476,Sailing Mixed Three Person Keelboat,Sailing,Individual
+477,Sailing Mixed Two Person Dinghy,Sailing,Individual
+478,Sailing Mixed Two Person Heavyweight Dinghy,Sailing,Individual
+479,Sailing Mixed Two Person Keelboat,Sailing,Individual
+480,Sailing Mixed Windsurfer,Sailing,Individual
+481,Sailing Women'S One Person Dinghy,Sailing,Individual
+482,Sailing Women'S Skiff,Sailing,Individual
+483,Sailing Women'S Three Person Keelboat,Sailing,Individual
+484,Sailing Women'S Two Person Dinghy,Sailing,Individual
+485,Sailing Women'S Windsurfer,Sailing,Individual
+486,"Shooting Men'S Air Pistol, 10 Metres",Shooting,Individual
+487,"Shooting Men'S Air Rifle, 10 Metres",Shooting,Individual
+488,Shooting Men'S Double Trap,Shooting,Individual
+489,"Shooting Men'S Dueling Pistol Au Commandement, 25 Metres",Shooting,Individual
+490,Shooting Men'S Dueling Pistol Au Vise 20 Metres,Shooting,Individual
+491,"Shooting Men'S Dueling Pistol, 30 Metres",Shooting,Individual
+492,"Shooting Men'S Dueling Pistol, 30 Metres, Team",Shooting,Individual
+493,"Shooting Men'S Free Pistol, 25 Metres",Shooting,Individual
+494,"Shooting Men'S Free Pistol, 30 Metres",Shooting,Individual
+495,"Shooting Men'S Free Pistol, 50 Metres",Shooting,Individual
+496,"Shooting Men'S Free Pistol, 50 Metres, Team",Shooting,Individual
+497,"Shooting Men'S Free Pistol, 50 Yards",Shooting,Individual
+498,"Shooting Men'S Free Pistol, 50 Yards, Team",Shooting,Individual
+499,"Shooting Men'S Free Rifle, 1,000 Yards",Shooting,Individual
+500,"Shooting Men'S Free Rifle, 400, 600 And 800 Metres, Team",Shooting,Individual
+501,"Shooting Men'S Free Rifle, Any Position, 300 Metres",Shooting,Individual
+502,"Shooting Men'S Free Rifle, Kneeling, 300 Metres",Shooting,Individual
+503,"Shooting Men'S Free Rifle, Prone, 300 Metres",Shooting,Individual
+504,"Shooting Men'S Free Rifle, Prone, 600 Metres",Shooting,Individual
+505,"Shooting Men'S Free Rifle, Standing, 300 Metres",Shooting,Individual
+506,"Shooting Men'S Free Rifle, Three Positions, 300 Metres",Shooting,Individual
+507,"Shooting Men'S Free Rifle, Three Positions, 300 Metres, Team",Shooting,Individual
+508,"Shooting Men'S Military Pistol, 25 Metres",Shooting,Individual
+509,"Shooting Men'S Military Pistol, 30 Metres",Shooting,Individual
+510,"Shooting Men'S Military Pistol, Team",Shooting,Individual
+511,"Shooting Men'S Military Revolver, 1873-1874 Gras Model, 20 Metres",Shooting,Individual
+512,"Shooting Men'S Military Revolver, 20 Metres",Shooting,Individual
+513,"Shooting Men'S Military Rifle, 1873-1874 Gras Model, Kneeling Or Standing, 200 Metres",Shooting,Individual
+514,"Shooting Men'S Military Rifle, 200 Metres",Shooting,Individual
+515,"Shooting Men'S Military Rifle, 200, 400, 500 And 600 Metres, Team",Shooting,Individual
+516,"Shooting Men'S Military Rifle, 200/500/600/800/900/1,000 Yards, Team",Shooting,Individual
+517,"Shooting Men'S Military Rifle, 300 Metres And 600 Metres, Prone, Team",Shooting,Individual
+518,"Shooting Men'S Military Rifle, Any Position, 600 Metres",Shooting,Individual
+519,"Shooting Men'S Military Rifle, Kneeling Or Standing, 300 Metres",Shooting,Individual
+520,"Shooting Men'S Military Rifle, Prone, 300 Metres",Shooting,Individual
+521,"Shooting Men'S Military Rifle, Prone, 300 Metres, Team",Shooting,Individual
+522,"Shooting Men'S Military Rifle, Prone, 600 Metres",Shooting,Individual
+523,"Shooting Men'S Military Rifle, Prone, 600 Metres, Team",Shooting,Individual
+524,"Shooting Men'S Military Rifle, Standing, 300 Metres",Shooting,Individual
+525,"Shooting Men'S Military Rifle, Standing, 300 Metres, Team",Shooting,Individual
+526,"Shooting Men'S Military Rifle, Three Positions, 300 Metres",Shooting,Individual
+527,"Shooting Men'S Rapid-Fire Pistol, 25 Metres",Shooting,Individual
+528,"Shooting Men'S Running Target, 10 Metres",Shooting,Individual
+529,"Shooting Men'S Running Target, 50 Metres",Shooting,Individual
+530,"Shooting Men'S Running Target, Double Shot",Shooting,Individual
+531,"Shooting Men'S Running Target, Double Shot, Team",Shooting,Individual
+532,"Shooting Men'S Running Target, Single And Double Shot",Shooting,Individual
+533,"Shooting Men'S Running Target, Single Shot",Shooting,Individual
+534,"Shooting Men'S Running Target, Single Shot, Team",Shooting,Individual
+535,Shooting Men'S Skeet,Shooting,Individual
+536,"Shooting Men'S Small Bore-Rifle, Standing, 50 Metres, Team",Shooting,Individual
+537,"Shooting Men'S Small-Bore Rifle, 50 And 100 Yards, Team",Shooting,Individual
+538,"Shooting Men'S Small-Bore Rifle, Any Position, 50 Metres",Shooting,Individual
+539,"Shooting Men'S Small-Bore Rifle, Disappearing Target, 25 Metres",Shooting,Individual
+540,"Shooting Men'S Small-Bore Rifle, Disappearing Target, 25 Metres, Team",Shooting,Individual
+541,"Shooting Men'S Small-Bore Rifle, Disappearing Target, 25 Yards",Shooting,Individual
+542,"Shooting Men'S Small-Bore Rifle, Moving Target, 25 Yards",Shooting,Individual
+543,"Shooting Men'S Small-Bore Rifle, Prone, 50 And 100 Yards",Shooting,Individual
+544,"Shooting Men'S Small-Bore Rifle, Prone, 50 Metres",Shooting,Individual
+545,"Shooting Men'S Small-Bore Rifle, Prone, 50 Metres, Team",Shooting,Individual
+546,"Shooting Men'S Small-Bore Rifle, Standing, 50 Metres",Shooting,Individual
+547,"Shooting Men'S Small-Bore Rifle, Three Positions, 50 Metres",Shooting,Individual
+548,Shooting Men'S Trap,Shooting,Individual
+549,"Shooting Men'S Trap, Double Shot, 14 Metres",Shooting,Individual
+550,"Shooting Men'S Trap, Single Shot, 16 Metres",Shooting,Individual
+551,"Shooting Men'S Trap, Team",Shooting,Individual
+552,"Shooting Mixed Free Pistol, 50 Metres",Shooting,Individual
+553,"Shooting Mixed Free Rifle, Three Positions, 300 Metres",Shooting,Individual
+554,"Shooting Mixed Rapid-Fire Pistol, 25 Metres",Shooting,Individual
+555,"Shooting Mixed Running Target, 50 Metres",Shooting,Individual
+556,Shooting Mixed Skeet,Shooting,Individual
+557,"Shooting Mixed Small-Bore Rifle, Prone, 50 Metres",Shooting,Individual
+558,"Shooting Mixed Small-Bore Rifle, Three Positions, 50 Metres",Shooting,Individual
+559,Shooting Mixed Trap,Shooting,Individual
+560,"Shooting Women'S Air Pistol, 10 Metres",Shooting,Individual
+561,"Shooting Women'S Air Rifle, 10 Metres",Shooting,Individual
+562,Shooting Women'S Double Trap,Shooting,Individual
+563,Shooting Women'S Skeet,Shooting,Individual
+564,"Shooting Women'S Small-Bore Rifle, Three Positions, 50 Metres",Shooting,Individual
+565,"Shooting Women'S Sporting Pistol, 25 Metres",Shooting,Individual
+566,Shooting Women'S Trap,Shooting,Individual
+567,"Short Track Speed Skating Men'S 1,000 Metres",Short Track Speed Skating,Individual
+568,"Short Track Speed Skating Men'S 1,500 Metres",Short Track Speed Skating,Individual
+569,"Short Track Speed Skating Men'S 5,000 Metres Relay",Short Track Speed Skating,Individual
+570,Short Track Speed Skating Men'S 500 Metres,Short Track Speed Skating,Individual
+571,"Short Track Speed Skating Women'S 1,000 Metres",Short Track Speed Skating,Individual
+572,"Short Track Speed Skating Women'S 1,500 Metres",Short Track Speed Skating,Individual
+573,"Short Track Speed Skating Women'S 3,000 Metres Relay",Short Track Speed Skating,Individual
+574,Short Track Speed Skating Women'S 500 Metres,Short Track Speed Skating,Individual
+575,Skeleton Men'S Skeleton,Skeleton,Individual
+576,Skeleton Women'S Skeleton,Skeleton,Individual
+577,"Ski Jumping Men'S Large Hill, Individual",Ski Jumping,Individual
+578,"Ski Jumping Men'S Large Hill, Team",Ski Jumping,Individual
+579,"Ski Jumping Men'S Normal Hill, Individual",Ski Jumping,Individual
+580,"Ski Jumping Women'S Normal Hill, Individual",Ski Jumping,Individual
+581,Snowboarding Men'S Boardercross,Snowboarding,Individual
+582,Snowboarding Men'S Giant Slalom,Snowboarding,Individual
+583,Snowboarding Men'S Halfpipe,Snowboarding,Individual
+584,Snowboarding Men'S Parallel Giant Slalom,Snowboarding,Individual
+585,Snowboarding Men'S Parallel Slalom,Snowboarding,Individual
+586,Snowboarding Men'S Slopestyle,Snowboarding,Individual
+587,Snowboarding Women'S Boardercross,Snowboarding,Individual
+588,Snowboarding Women'S Giant Slalom,Snowboarding,Individual
+589,Snowboarding Women'S Halfpipe,Snowboarding,Individual
+590,Snowboarding Women'S Parallel Giant Slalom,Snowboarding,Individual
+591,Snowboarding Women'S Parallel Slalom,Snowboarding,Individual
+592,Snowboarding Women'S Slopestyle,Snowboarding,Individual
+593,Softball Women'S Softball,Softball,Team
+594,"Speed Skating Men'S 1,000 Metres",Speed Skating,Individual
+595,"Speed Skating Men'S 1,500 Metres",Speed Skating,Individual
+596,"Speed Skating Men'S 10,000 Metres",Speed Skating,Individual
+597,"Speed Skating Men'S 5,000 Metres",Speed Skating,Individual
+598,Speed Skating Men'S 500 Metres,Speed Skating,Individual
+599,Speed Skating Men'S Allround,Speed Skating,Individual
+600,Speed Skating Men'S Team Pursuit (8 Laps),Speed Skating,Individual
+601,"Speed Skating Women'S 1,000 Metres",Speed Skating,Individual
+602,"Speed Skating Women'S 1,500 Metres",Speed Skating,Individual
+603,"Speed Skating Women'S 3,000 Metres",Speed Skating,Individual
+604,"Speed Skating Women'S 5,000 Metres",Speed Skating,Individual
+605,Speed Skating Women'S 500 Metres,Speed Skating,Individual
+606,Speed Skating Women'S Team Pursuit (6 Laps),Speed Skating,Individual
+607,"Swimming Men'S 1,000 Metres Freestyle",Swimming,Individual
+608,"Swimming Men'S 1,200 Metres Freestyle",Swimming,Individual
+609,"Swimming Men'S 1,500 Metres Freestyle",Swimming,Individual
+610,Swimming Men'S 10 Kilometres Open Water,Swimming,Individual
+611,Swimming Men'S 100 Metres Backstroke,Swimming,Individual
+612,Swimming Men'S 100 Metres Breaststroke,Swimming,Individual
+613,Swimming Men'S 100 Metres Butterfly,Swimming,Individual
+614,Swimming Men'S 100 Metres Freestyle,Swimming,Individual
+615,Swimming Men'S 100 Metres Freestyle For Sailors,Swimming,Individual
+616,Swimming Men'S 100 Yard Backstroke,Swimming,Individual
+617,Swimming Men'S 100 Yard Freestyle,Swimming,Individual
+618,Swimming Men'S 200 Metres Backstroke,Swimming,Individual
+619,Swimming Men'S 200 Metres Breaststroke,Swimming,Individual
+620,Swimming Men'S 200 Metres Butterfly,Swimming,Individual
+621,Swimming Men'S 200 Metres Freestyle,Swimming,Individual
+622,Swimming Men'S 200 Metres Individual Medley,Swimming,Individual
+623,Swimming Men'S 200 Metres Obstacle Course,Swimming,Individual
+624,Swimming Men'S 200 Metres Team Swimming,Swimming,Individual
+625,Swimming Men'S 220 Yard Freestyle,Swimming,Individual
+626,Swimming Men'S 4 X 100 Metres Freestyle Relay,Swimming,Individual
+627,Swimming Men'S 4 X 100 Metres Medley Relay,Swimming,Individual
+628,Swimming Men'S 4 X 200 Metres Freestyle Relay,Swimming,Individual
+629,Swimming Men'S 4 X 250 Metres Freestyle Relay,Swimming,Individual
+630,Swimming Men'S 4 X 50 Yard Freestyle Relay,Swimming,Individual
+631,"Swimming Men'S 4,000 Metres Freestyle",Swimming,Individual
+632,Swimming Men'S 400 Metres Breaststroke,Swimming,Individual
+633,Swimming Men'S 400 Metres Freestyle,Swimming,Individual
+634,Swimming Men'S 400 Metres Individual Medley,Swimming,Individual
+635,Swimming Men'S 440 Yard Breaststroke,Swimming,Individual
+636,Swimming Men'S 440 Yard Freestyle,Swimming,Individual
+637,Swimming Men'S 50 Metres Freestyle,Swimming,Individual
+638,Swimming Men'S 50 Yard Freestyle,Swimming,Individual
+639,Swimming Men'S 880 Yard Freestyle,Swimming,Individual
+640,Swimming Men'S One Mile Freestyle,Swimming,Individual
+641,Swimming Men'S Plunge For Distance,Swimming,Individual
+642,Swimming Men'S Underwater Swimming,Swimming,Individual
+643,Swimming Women'S 10 Kilometres Open Water,Swimming,Individual
+644,Swimming Women'S 100 Metres Backstroke,Swimming,Individual
+645,Swimming Women'S 100 Metres Breaststroke,Swimming,Individual
+646,Swimming Women'S 100 Metres Butterfly,Swimming,Individual
+647,Swimming Women'S 100 Metres Freestyle,Swimming,Individual
+648,Swimming Women'S 200 Metres Backstroke,Swimming,Individual
+649,Swimming Women'S 200 Metres Breaststroke,Swimming,Individual
+650,Swimming Women'S 200 Metres Butterfly,Swimming,Individual
+651,Swimming Women'S 200 Metres Freestyle,Swimming,Individual
+652,Swimming Women'S 200 Metres Individual Medley,Swimming,Individual
+653,Swimming Women'S 300 Metres Freestyle,Swimming,Individual
+654,Swimming Women'S 4 X 100 Metres Freestyle Relay,Swimming,Individual
+655,Swimming Women'S 4 X 100 Metres Medley Relay,Swimming,Individual
+656,Swimming Women'S 4 X 200 Metres Freestyle Relay,Swimming,Individual
+657,Swimming Women'S 400 Metres Freestyle,Swimming,Individual
+658,Swimming Women'S 400 Metres Individual Medley,Swimming,Individual
+659,Swimming Women'S 50 Metres Freestyle,Swimming,Individual
+660,Swimming Women'S 800 Metres Freestyle,Swimming,Individual
+661,Synchronized Swimming Women'S Duet,Synchronized Swimming,Individual
+662,Synchronized Swimming Women'S Solo,Synchronized Swimming,Individual
+663,Synchronized Swimming Women'S Team,Synchronized Swimming,Individual
+664,Table Tennis Men'S Doubles,Table Tennis,Individual
+665,Table Tennis Men'S Singles,Table Tennis,Individual
+666,Table Tennis Men'S Team,Table Tennis,Individual
+667,Table Tennis Women'S Doubles,Table Tennis,Individual
+668,Table Tennis Women'S Singles,Table Tennis,Individual
+669,Table Tennis Women'S Team,Table Tennis,Individual
+670,Taekwondo Men'S Featherweight,Taekwondo,Individual
+671,Taekwondo Men'S Flyweight,Taekwondo,Individual
+672,Taekwondo Men'S Heavyweight,Taekwondo,Individual
+673,Taekwondo Men'S Welterweight,Taekwondo,Individual
+674,Taekwondo Women'S Featherweight,Taekwondo,Individual
+675,Taekwondo Women'S Flyweight,Taekwondo,Individual
+676,Taekwondo Women'S Heavyweight,Taekwondo,Individual
+677,Taekwondo Women'S Welterweight,Taekwondo,Individual
+678,Tennis Men'S Doubles,Tennis,Individual
+679,"Tennis Men'S Doubles, Covered Courts",Tennis,Individual
+680,Tennis Men'S Singles,Tennis,Individual
+681,"Tennis Men'S Singles, Covered Courts",Tennis,Individual
+682,Tennis Mixed Doubles,Tennis,Individual
+683,"Tennis Mixed Doubles, Covered Courts",Tennis,Individual
+684,Tennis Women'S Doubles,Tennis,Individual
+685,Tennis Women'S Singles,Tennis,Individual
+686,"Tennis Women'S Singles, Covered Courts",Tennis,Individual
+687,Trampolining Men'S Individual,Trampolining,Individual
+688,Trampolining Women'S Individual,Trampolining,Individual
+689,Triathlon Men'S Olympic Distance,Triathlon,Individual
+690,Triathlon Women'S Olympic Distance,Triathlon,Individual
+691,Tug-Of-War Men'S Tug-Of-War,Tug-Of-War,Team
+692,Volleyball Men'S Volleyball,Volleyball,Team
+693,Volleyball Women'S Volleyball,Volleyball,Team
+694,Water Polo Men'S Water Polo,Water Polo,Team
+695,Water Polo Women'S Water Polo,Water Polo,Team
+696,Weightlifting Men'S Bantamweight,Weightlifting,Individual
+697,Weightlifting Men'S Featherweight,Weightlifting,Individual
+698,Weightlifting Men'S Flyweight,Weightlifting,Individual
+699,Weightlifting Men'S Heavyweight,Weightlifting,Individual
+700,Weightlifting Men'S Heavyweight I,Weightlifting,Individual
+701,Weightlifting Men'S Heavyweight Ii,Weightlifting,Individual
+702,Weightlifting Men'S Light-Heavyweight,Weightlifting,Individual
+703,Weightlifting Men'S Lightweight,Weightlifting,Individual
+704,Weightlifting Men'S Middle-Heavyweight,Weightlifting,Individual
+705,Weightlifting Men'S Middleweight,Weightlifting,Individual
+706,Weightlifting Men'S Super-Heavyweight,Weightlifting,Individual
+707,"Weightlifting Men'S Unlimited, One Hand",Weightlifting,Individual
+708,"Weightlifting Men'S Unlimited, Two Hands",Weightlifting,Individual
+709,Weightlifting Women'S Featherweight,Weightlifting,Individual
+710,Weightlifting Women'S Flyweight,Weightlifting,Individual
+711,Weightlifting Women'S Heavyweight,Weightlifting,Individual
+712,Weightlifting Women'S Light-Heavyweight,Weightlifting,Individual
+713,Weightlifting Women'S Lightweight,Weightlifting,Individual
+714,Weightlifting Women'S Middleweight,Weightlifting,Individual
+715,Weightlifting Women'S Super-Heavyweight,Weightlifting,Individual
+716,"Wrestling Men'S Bantamweight, Freestyle",Wrestling,Individual
+717,"Wrestling Men'S Bantamweight, Greco-Roman",Wrestling,Individual
+718,"Wrestling Men'S Featherweight, Freestyle",Wrestling,Individual
+719,"Wrestling Men'S Featherweight, Greco-Roman",Wrestling,Individual
+720,"Wrestling Men'S Flyweight, Freestyle",Wrestling,Individual
+721,"Wrestling Men'S Flyweight, Greco-Roman",Wrestling,Individual
+722,"Wrestling Men'S Heavyweight, Freestyle",Wrestling,Individual
+723,"Wrestling Men'S Heavyweight, Greco-Roman",Wrestling,Individual
+724,"Wrestling Men'S Light-Flyweight, Freestyle",Wrestling,Individual
+725,"Wrestling Men'S Light-Flyweight, Greco-Roman",Wrestling,Individual
+726,"Wrestling Men'S Light-Heavyweight, Freestyle",Wrestling,Individual
+727,"Wrestling Men'S Light-Heavyweight, Greco-Roman",Wrestling,Individual
+728,"Wrestling Men'S Lightweight, Freestyle",Wrestling,Individual
+729,"Wrestling Men'S Lightweight, Greco-Roman",Wrestling,Individual
+730,"Wrestling Men'S Middleweight A, Greco-Roman",Wrestling,Individual
+731,"Wrestling Men'S Middleweight B, Greco-Roman",Wrestling,Individual
+732,"Wrestling Men'S Middleweight, Freestyle",Wrestling,Individual
+733,"Wrestling Men'S Middleweight, Greco-Roman",Wrestling,Individual
+734,"Wrestling Men'S Super-Heavyweight, Freestyle",Wrestling,Individual
+735,"Wrestling Men'S Super-Heavyweight, Greco-Roman",Wrestling,Individual
+736,"Wrestling Men'S Unlimited Class, Greco-Roman",Wrestling,Individual
+737,"Wrestling Men'S Welterweight, Freestyle",Wrestling,Individual
+738,"Wrestling Men'S Welterweight, Greco-Roman",Wrestling,Individual
+739,"Wrestling Women'S Featherweight, Freestyle",Wrestling,Individual
+740,"Wrestling Women'S Flyweight, Freestyle",Wrestling,Individual
+741,"Wrestling Women'S Heavyweight, Freestyle",Wrestling,Individual
+742,"Wrestling Women'S Light-Heavyweight, Freestyle",Wrestling,Individual
+743,"Wrestling Women'S Lightweight, Freestyle",Wrestling,Individual
+744,"Wrestling Women'S Middleweight, Freestyle",Wrestling,Individual

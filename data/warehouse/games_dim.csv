@@ -1,0 +1,53 @@
+Games_Key,Games,Year,Season,City,Is_Winter
+1,1896 Summer,1896,Summer,Athina,False
+2,1900 Summer,1900,Summer,Paris,False
+3,1904 Summer,1904,Summer,St. Louis,False
+4,1906 Summer,1906,Summer,Athina,False
+5,1908 Summer,1908,Summer,London,False
+6,1912 Summer,1912,Summer,Stockholm,False
+7,1920 Summer,1920,Summer,Antwerpen,False
+8,1924 Winter,1924,Winter,Chamonix,True
+9,1924 Summer,1924,Summer,Paris,False
+10,1928 Summer,1928,Summer,Amsterdam,False
+11,1928 Winter,1928,Winter,Sankt Moritz,True
+12,1932 Summer,1932,Summer,Los Angeles,False
+13,1932 Winter,1932,Winter,Lake Placid,True
+14,1936 Summer,1936,Summer,Berlin,False
+15,1936 Winter,1936,Winter,Garmisch-Partenkirchen,True
+16,1948 Winter,1948,Winter,Sankt Moritz,True
+17,1948 Summer,1948,Summer,London,False
+18,1952 Winter,1952,Winter,Oslo,True
+19,1952 Summer,1952,Summer,Helsinki,False
+20,1956 Winter,1956,Winter,Cortina D'Ampezzo,True
+21,1956 Summer,1956,Summer,Stockholm,False
+22,1956 Summer,1956,Summer,Melbourne,False
+23,1960 Winter,1960,Winter,Squaw Valley,True
+24,1960 Summer,1960,Summer,Roma,False
+25,1964 Winter,1964,Winter,Innsbruck,True
+26,1964 Summer,1964,Summer,Tokyo,False
+27,1968 Winter,1968,Winter,Grenoble,True
+28,1968 Summer,1968,Summer,Mexico City,False
+29,1972 Summer,1972,Summer,Munich,False
+30,1972 Winter,1972,Winter,Sapporo,True
+31,1976 Summer,1976,Summer,Montreal,False
+32,1976 Winter,1976,Winter,Innsbruck,True
+33,1980 Summer,1980,Summer,Moskva,False
+34,1980 Winter,1980,Winter,Lake Placid,True
+35,1984 Winter,1984,Winter,Sarajevo,True
+36,1984 Summer,1984,Summer,Los Angeles,False
+37,1988 Winter,1988,Winter,Calgary,True
+38,1988 Summer,1988,Summer,Seoul,False
+39,1992 Winter,1992,Winter,Albertville,True
+40,1992 Summer,1992,Summer,Barcelona,False
+41,1994 Winter,1994,Winter,Lillehammer,True
+42,1996 Summer,1996,Summer,Atlanta,False
+43,1998 Winter,1998,Winter,Nagano,True
+44,2000 Summer,2000,Summer,Sydney,False
+45,2002 Winter,2002,Winter,Salt Lake City,True
+46,2004 Summer,2004,Summer,Athina,False
+47,2006 Winter,2006,Winter,Torino,True
+48,2008 Summer,2008,Summer,Beijing,False
+49,2010 Winter,2010,Winter,Vancouver,True
+50,2012 Summer,2012,Summer,London,False
+51,2014 Winter,2014,Winter,Sochi,True
+52,2016 Summer,2016,Summer,Rio De Janeiro,False
