@@ -27,27 +27,24 @@ These datasets together allow analysis by athlete, country, sport, and region.
 ---
 
 ## 3. Project Structure
+
 Olympic-Games-DWH-Analysis/
-│
 ├── README.md
 ├── data/
-│ ├── raw/ # Original CSV files
-│ │ ├── athlete_events.csv
-│ │ └── noc_regions.csv
-│ └── warehouse/ # Dimension & Fact tables after ETL
-│ ├── athlete_dim.csv
-│ ├── games_dim.csv
-│ ├── event_dim.csv
-│ ├── medal_dim.csv
-│ └── participation_fact.csv
-│
+│   ├── raw/                 # Original CSV files
+│   │   ├── athlete_events.csv
+│   │   └── noc_regions.csv
+│   └── warehouse/           # Dimension & Fact tables after ETL
+│       ├── athlete_dim.csv
+│       ├── games_dim.csv
+│       ├── event_dim.csv
+│       ├── medal_dim.csv
+│       └── participation_fact.csv
 ├── scripts/
-│ ├── database_creation(athlete_events).sql
-│ └── olympic_etl_notebook.ipynb
-│
+│   ├── database_creation(athlete_events).sql
+│   └── olympic_etl_notebook.ipynb
 ├── dashboards/
-│ └── Olympic_Games_Dashboard.pbix
-│
+│   └── Olympic_Games_Dashboard.pbix
 └── requirements.txt
 
 ---
