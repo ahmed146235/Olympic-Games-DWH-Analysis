@@ -27,7 +27,7 @@ These datasets together allow analysis by athlete, country, sport, and region.
 ---
 
 ## 3. Project Structure
-
+```text
 Olympic-Games-DWH-Analysis/
 ├── README.md
 ├── data/
