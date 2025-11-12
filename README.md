@@ -121,7 +121,7 @@ File: `dashboards/Olympic_Games_Dashboard.pbix`
 - Power BI  
 
 **Install dependencies:**
-```bash
+
 pip install -r requirements.txt
 
 ---
